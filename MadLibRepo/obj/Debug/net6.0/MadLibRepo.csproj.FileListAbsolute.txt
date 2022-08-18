@@ -1,0 +1,5 @@
+C:\Users\jlew7\source\repos\MadLib\MadLibRepo\obj\Debug\net6.0\MadLibRepo.csproj.AssemblyReference.cache
+C:\Users\jlew7\source\repos\MadLib\MadLibRepo\obj\Debug\net6.0\MadLibRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlew7\source\repos\MadLib\MadLibRepo\obj\Debug\net6.0\MadLibRepo.AssemblyInfoInputs.cache
+C:\Users\jlew7\source\repos\MadLib\MadLibRepo\obj\Debug\net6.0\MadLibRepo.AssemblyInfo.cs
+C:\Users\jlew7\source\repos\MadLib\MadLibRepo\obj\Debug\net6.0\MadLibRepo.csproj.CoreCompileInputs.cache
