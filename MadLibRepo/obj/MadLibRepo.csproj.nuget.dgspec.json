@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jlew7\\source\\repos\\MadLib\\MadLibRepo\\MadLibRepo.csproj": {}
+    "C:\\Users\\wagne\\MadLib\\MadLibRepo\\MadLibRepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jlew7\\source\\repos\\MadLib\\MadLibRepo\\MadLibRepo.csproj": {
+    "C:\\Users\\wagne\\MadLib\\MadLibRepo\\MadLibRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jlew7\\source\\repos\\MadLib\\MadLibRepo\\MadLibRepo.csproj",
+        "projectUniqueName": "C:\\Users\\wagne\\MadLib\\MadLibRepo\\MadLibRepo.csproj",
         "projectName": "MadLibRepo",
-        "projectPath": "C:\\Users\\jlew7\\source\\repos\\MadLib\\MadLibRepo\\MadLibRepo.csproj",
-        "packagesPath": "C:\\Users\\jlew7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jlew7\\source\\repos\\MadLib\\MadLibRepo\\obj\\",
+        "projectPath": "C:\\Users\\wagne\\MadLib\\MadLibRepo\\MadLibRepo.csproj",
+        "packagesPath": "C:\\Users\\wagne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wagne\\MadLib\\MadLibRepo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jlew7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wagne\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

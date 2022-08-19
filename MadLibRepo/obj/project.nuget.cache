@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "doL7mKAbhPPLHSgKbsxPbqAbLR37jZVMcTAJo76IISwCXlGQPpkZE54wowjoaDaqHTqh+sC2ZFt+JLeIMgqWiw==",
+  "dgSpecHash": "POimrQnS08juVQ0+Seg8gX2e7nNAgn3GOPcKqZyu3djwkz3Rl5Q4EBMut87VoI555+ZFRU9c7ZGOtfIxiJQqiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jlew7\\source\\repos\\MadLib\\MadLibRepo\\MadLibRepo.csproj",
+  "projectFilePath": "C:\\Users\\wagne\\MadLib\\MadLibRepo\\MadLibRepo.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jlew7\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512"
+    "C:\\Users\\wagne\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
