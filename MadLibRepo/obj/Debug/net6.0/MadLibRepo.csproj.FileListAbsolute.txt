@@ -23,3 +23,10 @@ C:\Users\jlew7\source\repos\MadLib\MadLibRepo\obj\Debug\net6.0\MadLibRepo.genrun
 C:\Users\jlew7\source\repos\MadLib\MadLibRepo\obj\Debug\net6.0\ref\MadLibRepo.dll
 C:\Users\jlew7\source\repos\MadLib\MadLibRepo\obj\Debug\net6.0\Interop.SpeechLib.dll
 C:\Users\jlew7\source\repos\MadLib\MadLibRepo\obj\Debug\net6.0\MadLibRepo.csproj.ResolveComReference.cache
+C:\Users\jlew7\source\repos\MadLib\MadLibRepo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jlew7\source\repos\MadLib\MadLibRepo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jlew7\source\repos\MadLib\MadLibRepo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jlew7\source\repos\MadLib\MadLibRepo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jlew7\source\repos\MadLib\MadLibRepo\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jlew7\source\repos\MadLib\MadLibRepo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jlew7\source\repos\MadLib\MadLibRepo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

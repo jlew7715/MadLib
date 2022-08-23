@@ -27,6 +27,7 @@
 
   <ItemGroup>
     <PackageReference Include="System.Speech" Version="6.0.0" />
+    <PackageReference Include="System.Windows.Extensions" Version="6.0.0" />
   </ItemGroup>
 
 </Project>
