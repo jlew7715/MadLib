@@ -18,10 +18,10 @@ namespace MadLibRepo
             SoundPlayer player = new SoundPlayer();
             player.SoundLocation = AppDomain.CurrentDomain.BaseDirectory + "\\theme.wav";
             player.Play();
-            Console.WriteLine("I am your host Rick and yea, we all know I am the smartest guy there is. I have some MadLibs for you to complete.It will be just like an adventure.We will be " +
-                "entering words and working hard to be creative only to realize none of this matters because nothing matters your existence is a lie, except for Andrew BUUUUURRRRRRPPPPPP, because we need him to graduate " +
-                "So you dont become the next useless jerry, all you have to do is follow the prompts. Enter some nouns, and verbs and stuff and and and you will get some funny stoies. Okay im going to not waste time any longer " +
-                "so im going to watch some Interdiminsional television until you complete this. If you cant complete this then you are equal to jerry, I cant take another jerry.\n" +
+            Console.WriteLine("I am your host Rick and yea, we all know I am the smartest guy there is. I have some MadLibs for you to complete. It will be just like an adventure. We will be " +
+                "entering words and working hard to be creative only to realize none of this matters because nothing matters, your existence is a lie, except for Andrew BUUUUURRRRRRPPPPPP, because we need him to graduate " +
+                "So dont become another useless Jerry, all you have to do is follow the prompts. Enter some nouns, and verbs and stuff and and and you will get some funny stoies. Okay I'm going to not waste time any longer " +
+                "so im going to watch some Interdiminsional television until you complete this. If you cant complete this then you are the equivalent to Jerry, a worthless worm type of Jerry. I can't take another Jerry.\n" +
                 "BBUUUURRRRPPP!!! Press any key even Jerry could do it!");
             PauseAndWaitForKeypress();
             MadLib c = (MadLib)new Random().Next(0, 4);
@@ -181,9 +181,9 @@ namespace MadLibRepo
                     $"(but with Sam).");
 
                 //var info = voice.VoiceInfo;//
-                synthesizer.Speak($"In J.R.R. Tolkien`s famous trilogy Lord of the {noun1}s " +
+                synthesizer.Speak($"In JRR Tolkien`s famous trilogy Lord of the {noun1}s " +
                     $"the first book is called Fellowship of the {noun1}. In this book a group " +
-                    $"of {adjective1} Hobbits flee their hometown.They eventually join into a " +
+                    $"of {adjective1} Hobbits flee their hometown. They eventually join into a " +
                     $"fellowship made up of {animal_plural1}, Elves and {animal_plural2}, with the " +
                     $"goal of {ing_verb} the One {noun1}. They begin by traveling through " +
                     $"the {adjective2} mountains, where {famous_person} the {color} is lost. " +
@@ -369,7 +369,7 @@ namespace MadLibRepo
             foreach (var voice in synthesizer.GetInstalledVoices())
             {
                 Console.ForegroundColor = ConsoleColor.Blue;
-                Console.WriteLine($"I am Doctor {Adjective1}. I am destined to {Verb1} the {Noun1}. " +
+                Console.WriteLine($"I am Dr. {Adjective1}. I am destined to {Verb1} the {Noun1}. " +
                     $"Unfortunately, the {Noun1} is full of a bunch of {Adjective2} {Plural_noun1} " +
                     $"that do not agree. I am sad to say that the {Noun2} Buster did not trigger the huge " +
                     $"{Event_plural} as I planned for it to do. Instead, all it did was {Verb2} some " +
@@ -382,7 +382,7 @@ namespace MadLibRepo
                     $"{Noun4} islands and {Verb3} the entire thing. Then they will {Verb5} in their " +
                     $"{Plural_noun5} and I will be the most powerful {Noun5} in the {Noun1}!");
 
-                synthesizer.Speak($"I am Dr. {Adjective1}. I am destined to {Verb1} the {Noun1}. " +
+                synthesizer.Speak($"I am Doctor {Adjective1}. I am destined to {Verb1} the {Noun1}. " +
                     $"Unfortunately, the {Noun1} is full of a bunch of {Adjective2} {Plural_noun1} " +
                     $"that do not agree. I am sad to say that the {Noun2} Buster did not trigger the huge " +
                     $"{Event_plural} as I planned for it to do. Instead, all it did was {Verb2} some " +
